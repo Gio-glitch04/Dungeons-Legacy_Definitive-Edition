@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/illidan"},"elements":[{"from":[3.5,0.0,8.05],"to":[12.5,10.0,8.05],"faces":{"south":{"uv":[10.25,7.875,10.805,8.485],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[10.2575,7.8825,10.8125,8.4925],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

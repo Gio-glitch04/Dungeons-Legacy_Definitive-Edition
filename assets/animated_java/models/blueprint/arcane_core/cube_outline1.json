@@ -1,0 +1,54 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/arcane_core/asciillager",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [20, 20, 20],
+			"to": [-4, -4, -4],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [2.875, 12.79375, 3.75, 15.59375],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [2.875, 12.79375, 3.75, 15.59375],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [2.875, 12.79375, 3.75, 15.59375],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [2.875, 12.79375, 3.75, 15.59375],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [2.875, 12.79375, 3.75, 15.59375],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [2.875, 12.79375, 3.75, 15.59375],
+					"rotation": 180,
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

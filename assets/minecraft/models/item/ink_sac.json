@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/ink_sac"
+	},
+	"overrides": [
+		
+		{"predicate": {"custom_model_data":77600}, "model": "item/nocsy/undeadpack/nocsy_fpv2_dog_icon"}
+		
+	]
+}

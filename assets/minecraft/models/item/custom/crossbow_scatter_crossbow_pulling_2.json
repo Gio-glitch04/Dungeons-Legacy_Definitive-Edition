@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/custom/crossbow_scatter_crossbow",
+  "textures": {
+    "layer0": "minecraft:item/scatter_crossbow_pulling_2"
+  }
+}

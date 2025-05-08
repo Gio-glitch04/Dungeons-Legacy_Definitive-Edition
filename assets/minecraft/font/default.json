@@ -1,0 +1,714 @@
+{
+    "providers": [
+        
+        {"file":"_iainternal:gui/no_recipe.png","chars":["\uE000"],"height":170,"ascent":47,"type":"bitmap"},
+        {"file":"_iainternal:gui/crafting.png","chars":["\uE001"],"height":170,"ascent":47,"type":"bitmap"},
+        {"file":"_iainternal:gui/cooking.png","chars":["\uE002"],"height":170,"ascent":47,"type":"bitmap"},
+        {"file":"_iainternal:gui/blank_menu.png","chars":["\uE003"],"height":170,"ascent":47,"type":"bitmap"},
+        {"file":"_iainternal:gui/anvil_repair.png","chars":["\uE004"],"height":170,"ascent":47,"type":"bitmap"},
+        {"file":"_iainternal:gui/smithing.png","chars":["\uE005"],"height":170,"ascent":47,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/0.png","chars":["\uE006"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/1.png","chars":["\uE007"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/2.png","chars":["\uE008"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/3.png","chars":["\uE009"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/4.png","chars":["\uE00A"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/5.png","chars":["\uE00B"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/6.png","chars":["\uE00C"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/7.png","chars":["\uE00D"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/8.png","chars":["\uE00E"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/9.png","chars":["\uE00F"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/10.png","chars":["\uE010"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/11.png","chars":["\uE011"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/12.png","chars":["\uE012"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/13.png","chars":["\uE013"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/14.png","chars":["\uE014"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/15.png","chars":["\uE015"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/16.png","chars":["\uE016"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/17.png","chars":["\uE017"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/18.png","chars":["\uE018"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/19.png","chars":["\uE019"],"height":22,"ascent":-42,"type":"bitmap"},
+        {"file":"_iainternal:hud/small_cooldown_bar/20.png","chars":["\uE01A"],"height":22,"ascent":-42,"type":"bitmap"},
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/melee_weapon.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE020"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/mineral.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE021"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/mision.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE022"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/mistery.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE023"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/ranged_weapon.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE024"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/shield.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE025"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/skin.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE026"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/tool.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE027"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/treasure.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE028"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/trophy.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE029"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/util.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE030"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_quality/common.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE031"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_quality/rare.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE032"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_quality/very_rare.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE033"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_quality/legendary.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE034"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_quality/mythic.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE035"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_quality/epic.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE036"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_quality/unique.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE037"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/lock.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE038"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/iron1.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE039"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/iron2.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE040"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/iron3.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE041"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/iron4.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE042"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/bronce1.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE043"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/bronce2.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE044"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/bronce3.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE045"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/bronce4.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE046"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/silver1.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE047"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/silver2.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE048"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/silver3.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE049"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/silver4.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE050"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/gold1.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE051"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/gold2.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE052"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/gold3.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE053"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/gold4.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE054"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/diamond1.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE055"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/diamond2.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE056"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/diamond3.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE057"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/diamond4.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE058"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/platinum1.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE059"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/platinum2.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE060"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/platinum3.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE061"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/platinum4.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE062"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/emerald1.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE064"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/emerald2.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE065"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/emerald3.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE066"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/emerald4.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE067"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/peruano.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE068"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:paid_ranks/divine.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE069"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:paid_ranks/angel.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE070"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:paid_ranks/spectre.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE071"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:paid_ranks/celestial.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE072"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:paid_ranks/abyss.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE073"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_elements/darkness.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE074"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_elements/earth.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE075"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_elements/fire.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE076"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_elements/ice.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE077"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_elements/light.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE078"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_elements/lightning.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE079"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_elements/magic.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE080"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_elements/water.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE081"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_elements/wind.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE082"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_stats/attack_speed.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE083"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_stats/crit.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE084"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_stats/damage.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE085"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_stats/defense.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE086"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_stats/magic_power.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE087"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_stats/pickaxe_power.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE088"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_stats/projectile_speed.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE089"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_stats/range.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE090"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_stats/warning.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE091"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/admin.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE092"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/builder.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": ["\uE093"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/dev.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": ["\uE094"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/helper.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE095"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/mod.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE096"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/player.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE097"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/owner.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE098"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/config.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": ["\uE099"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/ds_mod.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE063"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/armor.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE100"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/artifact.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE101"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/backpack.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE102"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/consumable.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE103"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/food.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE104"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/gem.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE105"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/gun.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE106"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/ingredient.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE107"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/key.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE108"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/magic_weapon.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE109"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item_types/material.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE110"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/onair.png",
+            "ascent": 8,
+            "height": 15,
+            "chars": ["\uE111"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:hv_tenebris/hv_tenebris.png",
+            "ascent": 13,
+            "height": 48,
+            "chars": ["\uE172"]
+        },
+        {"type":"bitmap","file":"minecraft:misc\/hunger_half.png","ascent":8,"height":16,"chars":["\ueff3"]},
+        {"type":"bitmap","file":"minecraft:misc\/hunger_full.png","ascent":8,"height":16,"chars":["\ueff4"]},
+        {"file":"char/black.png","chars":["\uF822"],"height":1,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF823"],"height":2,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF824"],"height":3,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF825"],"height":4,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF826"],"height":5,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF827"],"height":6,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF828"],"height":7,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF829"],"height":15,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF82A"],"height":31,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF82B"],"height":63,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF82C"],"height":127,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF82D"],"height":256,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF82E"],"height":512,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF82F"],"height":1024,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF801"],"height":-3,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF802"],"height":-4,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF803"],"height":-5,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF804"],"height":-6,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF805"],"height":-7,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF806"],"height":-8,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF807"],"height":-9,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF808"],"height":-10,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF809"],"height":-18,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF80A"],"height":-34,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF80B"],"height":-66,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF80C"],"height":-130,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF80D"],"height":-259,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF80E"],"height":-515,"ascent":-5000,"type":"bitmap"},
+        {"file":"char/black.png","chars":["\uF80F"],"height":-1027,"ascent":-5000,"type":"bitmap"}
+    ]
+}

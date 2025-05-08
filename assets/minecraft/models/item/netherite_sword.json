@@ -1,0 +1,138 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/custom/nameless_blade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/custom/sword_obsidian_claymore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/custom/sword_the_starless_night"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/custom/celestial_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/custom/celestial_sword_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:item/custom/crystal_gladius"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:item/custom/crystal_gladius_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "minecraft:item/custom/runic_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "minecraft:item/custom/dark_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "minecraft:item/custom/blessed_sabre"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "minecraft:item/custom/eternal_knife"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "minecraft:item/custom/steel_rapier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "minecraft:item/custom/cupid_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "minecraft:item/custom/dancer_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "minecraft:item/custom/opal_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "minecraft:item/custom/growing_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "minecraft:item/custom/jade_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "minecraft:item/custom/topaz_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "minecraft:item/custom/aquamarine_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "minecraft:item/custom/ruby_sword"
+    },
+    {"predicate":{"custom_model_data":10000},"model":"elitecreatures:carnivoret_weapon_set/spear"},
+{"predicate":{"custom_model_data":10001},"model":"elitecreatures:carnivoret_weapon_set/staff"},
+{"predicate":{"custom_model_data":10002},"model":"elitecreatures:carnivoret_weapon_set/sword"},
+{"predicate":{"custom_model_data":10003},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/hammer"},
+{"predicate":{"custom_model_data":10004},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/spear"},
+{"predicate":{"custom_model_data":10005},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/staff"},
+{"predicate":{"custom_model_data":10006},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/sword"},
+{"predicate":{"custom_model_data":10007},"model":"purpleworldset:purpleworldset/purpleworld_sword"},
+{"predicate":{"custom_model_data":10008},"model":"purpleworldset:purpleworldset/purpleworld_dagger"},
+{"predicate":{"custom_model_data":10009},"model":"item/netherite_sword"}
+  ]
+}

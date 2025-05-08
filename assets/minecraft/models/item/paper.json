@@ -1,0 +1,238 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/custom/raw_cobalt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/custom/raw_silver"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/custom/raw_titanium"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/custom/raw_copper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/custom/raw_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:item/custom/raw_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:item/custom/cobalt_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "minecraft:item/custom/silver_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "minecraft:item/custom/titanium_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "minecraft:item/custom/copper_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "minecraft:item/custom/iron_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "minecraft:item/custom/gold_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "minecraft:item/custom/rock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "minecraft:item/custom/flint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "minecraft:item/custom/raw_platinum"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "minecraft:item/custom/platinum_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "minecraft:item/custom/raw_ruby"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "minecraft:item/custom/raw_garnet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "minecraft:item/custom/raw_citrine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "minecraft:item/custom/raw_emerald"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "minecraft:item/custom/raw_aquamarine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "minecraft:item/custom/raw_diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "minecraft:item/custom/raw_amethist"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "minecraft:item/custom/raw_black_amber"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "minecraft:item/custom/raw_opal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "minecraft:item/custom/raw_quartz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "minecraft:item/custom/2d/materials/opal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "minecraft:item/custom/2d/materials/diamond2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "minecraft:item/custom/2d/materials/black_amber"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "minecraft:item/custom/2d/materials/amethyst2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "minecraft:item/custom/2d/materials/aquamarine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "minecraft:item/custom/2d/materials/citrine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "minecraft:item/custom/2d/materials/garnet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "minecraft:item/custom/2d/materials/ruby"
+    },
+{
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "minecraft:item/custom/2d/materials/amethyst_gem"
+    },
+    {"predicate":{"custom_model_data":10000},"model":"_iainternal:ia_auto_gen/icon_left_blue"},
+    {"predicate":{"custom_model_data":10001},"model":"_iainternal:ia_auto_gen/icon_right_blue"},
+    {"predicate":{"custom_model_data":10002},"model":"_iainternal:ia_auto_gen/icon_search"},
+    {"predicate":{"custom_model_data":10003},"model":"_iainternal:ia_auto_gen/icon_cancel"},
+    {"predicate":{"custom_model_data":10004},"model":"_iainternal:ia_auto_gen/icon_arrow_chest"},
+    {"predicate":{"custom_model_data":10005},"model":"_iainternal:ia_auto_gen/icon_back_orange"},
+    {"predicate":{"custom_model_data":10006},"model":"_iainternal:ia_auto_gen/icon_next_orange"},
+    {"predicate":{"custom_model_data":10007},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/chest"},
+    {"predicate":{"custom_model_data":10008},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/grenade"},
+    {"predicate":{"custom_model_data":10009},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/helmet"},
+    {"predicate":{"custom_model_data":10010},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/key"},
+    {"predicate":{"custom_model_data":10011},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/quiver"},
+    {"predicate":{"custom_model_data":10012},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/quiver_self"},
+    {"predicate":{"custom_model_data":10013},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/wing"},
+    {"predicate":{"custom_model_data":10014},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/wing_self"},
+    {"predicate":{"custom_model_data":10015},"model":"elitecreatures:carnivoret_weapon_set/chest"},
+    {"predicate":{"custom_model_data":10016},"model":"elitecreatures:carnivoret_weapon_set/hat"},
+    {"predicate":{"custom_model_data":10017},"model":"elitecreatures:carnivoret_weapon_set/key"},
+    {"predicate":{"custom_model_data":10018},"model":"elitecreatures:carnivoret_weapon_set/wing"},
+    {"predicate":{"custom_model_data":10019},"model":"item/paper"}
+  ]
+}

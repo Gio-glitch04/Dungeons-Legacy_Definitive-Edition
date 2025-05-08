@@ -1,0 +1,409 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "item/golden_floret_gui",
+		"2": "item/golden_floret",
+		"particle": "item/golden_floret"
+	},
+	"elements": [
+		{
+			"from": [0.5, 3, -1.625],
+			"to": [4.5, 3, 2.375],
+			"rotation": {"angle": 0, "axis": "x", "origin": [0, 4, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 0], "rotation": 180, "texture": "#missing"},
+				"east": {"uv": [0, 0, 2, 0], "rotation": 180, "texture": "#missing"},
+				"south": {"uv": [0, 0, 2, 0], "rotation": 180, "texture": "#missing"},
+				"west": {"uv": [0, 0, 2, 0], "rotation": 180, "texture": "#missing"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "golden_floret_0",
+			"from": [15.7625, 15.7625, 0],
+			"to": [17.2625, 17.2625, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [12.5, 4.5, 11.5, 3.5], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [11.5, 4, 12.5, 3.5], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [11.5, 4.5, 12.5, 3.5], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [11.5, 4.5, 12.5, 4], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [12, 4.5, 12.5, 3.5], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_1",
+			"from": [14.2625, 14.2625, 0],
+			"to": [16.5125, 15.7625, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [11.5, 5.5, 10.5, 4], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [10.5, 4.5, 11.5, 4], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [10.5, 5.5, 11.5, 4], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [10.5, 5.5, 11.5, 5], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [11, 5.5, 11.5, 4], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_2",
+			"from": [12.7625, 13.5125, 0],
+			"to": [15.7625, 14.2625, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [10.5, 6.5, 10, 4.5], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [10, 5, 10.5, 4.5], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [10, 6.5, 10.5, 4.5], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [10, 6.5, 10.5, 6], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [10, 6.5, 10.5, 4.5], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_3",
+			"from": [15.0125, 15.7625, 0],
+			"to": [15.7625, 16.5125, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [12, 5, 11.5, 4.5], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [11.5, 5, 12, 4.5], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [11.5, 5, 12, 4.5], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [11.5, 5, 12, 4.5], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [11.5, 5, 12, 4.5], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_4",
+			"from": [12.0125, 12.7625, 0],
+			"to": [15.0125, 13.5125, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [10, 7, 9.5, 5], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [9.5, 5.5, 10, 5], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [9.5, 7, 10, 5], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [9.5, 7, 10, 6.5], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [9.5, 7, 10, 5], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_5",
+			"from": [11.2625, 12.0125, 0],
+			"to": [14.2625, 12.7625, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [9.5, 7.5, 9, 5.5], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [9, 6, 9.5, 5.5], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [9, 7.5, 9.5, 5.5], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [9, 7.5, 9.5, 7], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [9, 7.5, 9.5, 5.5], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_6",
+			"from": [13.5125, 14.2625, 0],
+			"to": [14.2625, 15.0125, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [11, 6, 10.5, 5.5], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [10.5, 6, 11, 5.5], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [10.5, 6, 11, 5.5], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [10.5, 6, 11, 5.5], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [10.5, 6, 11, 5.5], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_7",
+			"from": [10.5125, 11.2625, 0],
+			"to": [13.5125, 12.0125, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [9, 8, 8.5, 6], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [8.5, 6.5, 9, 6], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [8.5, 8, 9, 6], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [8.5, 8, 9, 7.5], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [8.5, 8, 9, 6], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_8",
+			"from": [9.7625, 10.5125, 0],
+			"to": [12.7625, 11.2625, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [8.5, 8.5, 8, 6.5], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [8, 7, 8.5, 6.5], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [8, 8.5, 8.5, 6.5], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [8, 8.5, 8.5, 8], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [8, 8.5, 8.5, 6.5], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_9",
+			"from": [9.0125, 9.7625, 0],
+			"to": [12.0125, 10.5125, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [8, 9, 7.5, 7], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [7.5, 7.5, 8, 7], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [7.5, 9, 8, 7], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [7.5, 9, 8, 8.5], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [7.5, 9, 8, 7], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_10",
+			"from": [8.2625, 9.0125, 0],
+			"to": [11.2625, 9.7625, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [7.5, 9.5, 7, 7.5], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [7, 8, 7.5, 7.5], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [7, 9.5, 7.5, 7.5], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [7, 9.5, 7.5, 9], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [7, 9.5, 7.5, 7.5], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_11",
+			"from": [7.5125, 8.2625, 0],
+			"to": [10.5125, 9.0125, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [7, 10, 6.5, 8], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [6.5, 8.5, 7, 8], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [6.5, 10, 7, 8], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [6.5, 10, 7, 9.5], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [6.5, 10, 7, 8], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_12",
+			"from": [6.7625, 7.5125, 0],
+			"to": [9.7625, 8.2625, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [6.5, 10.5, 6, 8.5], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [6, 9, 6.5, 8.5], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [6, 10.5, 6.5, 8.5], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [6, 10.5, 6.5, 10], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [6, 10.5, 6.5, 8.5], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_13",
+			"from": [6.0125, 6.7625, 0],
+			"to": [9.0125, 7.5125, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [6, 11, 5.5, 9], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [5.5, 9.5, 6, 9], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [5.5, 11, 6, 9], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [5.5, 11, 6, 10.5], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [5.5, 11, 6, 9], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_14",
+			"from": [5.2625, 6.0125, 0],
+			"to": [8.2625, 6.7625, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [5.5, 11.5, 5, 9.5], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [5, 10, 5.5, 9.5], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [5, 11.5, 5.5, 9.5], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [5, 11.5, 5.5, 11], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [5, 11.5, 5.5, 9.5], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_15",
+			"from": [1.5125, 5.2625, 0],
+			"to": [7.5125, 6.0125, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [5, 14, 4.5, 10], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [4.5, 10.5, 5, 10], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [4.5, 14, 5, 10], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [4.5, 14, 5, 13.5], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [4.5, 14, 5, 10], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_16",
+			"from": [4.5125, 2.2625, 0],
+			"to": [6.7625, 3.7625, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [3.5, 12, 2.5, 10.5], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [2.5, 11, 3.5, 10.5], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [2.5, 12, 3.5, 10.5], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [2.5, 12, 3.5, 11.5], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [3, 12, 3.5, 10.5], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_17",
+			"from": [2.2625, 4.5125, 0],
+			"to": [6.7625, 5.2625, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [4.5, 13.5, 4, 10.5], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [4, 11, 4.5, 10.5], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [4, 13.5, 4.5, 10.5], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [4, 13.5, 4.5, 13], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [4, 13.5, 4.5, 10.5], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_18",
+			"from": [5.2625, 1.5125, 0],
+			"to": [6.0125, 2.2625, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [2.5, 11.5, 2, 11], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [2, 11.5, 2.5, 11], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [2, 11.5, 2.5, 11], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [2, 11.5, 2.5, 11], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [2, 11.5, 2.5, 11], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_19",
+			"from": [3.0125, 3.7625, 0],
+			"to": [6.0125, 4.5125, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [4, 13, 3.5, 11], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [3.5, 11.5, 4, 11], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [3.5, 13, 4, 11], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [3.5, 13, 4, 12.5], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [3.5, 13, 4, 11], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_20",
+			"from": [2.2625, 3.0125, 0],
+			"to": [4.5125, 3.7625, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [3.5, 13.5, 3, 12], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [3, 12.5, 3.5, 12], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [3, 13.5, 3.5, 12], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [3, 13.5, 3.5, 13], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [3, 13.5, 3.5, 12], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_21",
+			"from": [1.5125, 2.2625, 0],
+			"to": [3.7625, 3.0125, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [3, 14, 2.5, 12.5], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [2.5, 13, 3, 12.5], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [2.5, 14, 3, 12.5], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [2.5, 14, 3, 13.5], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [2.5, 14, 3, 12.5], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_22",
+			"from": [2.2625, 6.0125, 0],
+			"to": [3.7625, 6.7625, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [5.5, 13.5, 5, 12.5], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [5, 13, 5.5, 12.5], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [5, 13.5, 5.5, 12.5], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [5, 13.5, 5.5, 13], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [5, 13.5, 5.5, 12.5], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_23",
+			"from": [0.0125, 1.5125, 0],
+			"to": [3.0125, 2.2625, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [2.5, 15, 2, 13], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [2, 13.5, 2.5, 13], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [2, 15, 2.5, 13], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [2, 15, 2.5, 14.5], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [2, 15, 2.5, 13], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_24",
+			"from": [-0.7375, 0.0125, 0],
+			"to": [2.2625, 1.5125, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [2, 15.5, 1, 13.5], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [1, 14, 2, 13.5], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [1, 15.5, 2, 13.5], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [1, 15.5, 2, 15], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [1.5, 15.5, 2, 13.5], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "golden_floret_25",
+			"from": [0.0125, -0.7375, 0],
+			"to": [1.5125, 0.0125, 0.75],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.0625, 7.375, 0.375]},
+			"faces": {
+				"north": {"uv": [1, 15, 0.5, 14], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [0.5, 14.5, 1, 14], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [0.5, 15, 1, 14], "rotation": 270, "texture": "#2"},
+				"west": {"uv": [0.5, 15, 1, 14.5], "rotation": 270, "texture": "#2"},
+				"up": {"uv": [0.5, 15, 1, 14], "rotation": 270, "texture": "#2"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 45],
+			"translation": [7.75, 6, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, -45],
+			"translation": [-7.75, 6, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 60],
+			"translation": [7, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, -60],
+			"translation": [-3.25, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"ground": {
+			"translation": [-0.25, 5.25, 7.5]
+		},
+		"gui": {
+			"rotation": [-90, 0, 0],
+			"translation": [22, 30.5, 0],
+			"scale": [4, 4, 4]
+		},
+		"head": {
+			"rotation": [0, 0, -164.5],
+			"translation": [11.25, 22.5, 14.5],
+			"scale": [1.92, 1.92, 1.92]
+		},
+		"fixed": {
+			"rotation": [0, 0, 90],
+			"translation": [0.75, -0.75, 7.75]
+		}
+	},
+	"groups": [
+		0,
+		{
+			"name": "golden_floret",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
+		}
+	]
+}

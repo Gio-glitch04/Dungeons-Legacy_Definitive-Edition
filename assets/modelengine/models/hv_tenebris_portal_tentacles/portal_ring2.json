@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/hv_tenebris_portal_tentacles"},"elements":[{"from":[-9.0,8.0,-8.0],"to":[25.0,8.0,24.0],"faces":{"up":{"uv":[7.555556,3.5555556,3.777778,0.0],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[7.555556,3.5555556,3.777778,7.111111],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

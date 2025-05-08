@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_shovel"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/custom/dark_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/custom/blessed_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/custom/eternal_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/custom/steel_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/custom/cupid_shovel"
+    },
+    {"predicate":{"custom_model_data":10000},"model":"elitecreatures:carnivoret_weapon_set/shovel"},
+{"predicate":{"custom_model_data":10001},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/shovel"},
+{"predicate":{"custom_model_data":10002},"model":"purpleworldset:purpleworldset/purpleworld_shovel"},
+{"predicate":{"custom_model_data":10003},"model":"item/netherite_shovel"}
+  ]
+}

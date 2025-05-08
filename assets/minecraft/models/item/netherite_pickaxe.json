@@ -1,0 +1,60 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_pickaxe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/custom/dark_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/custom/blessed_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/custom/eternal_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/custom/steel_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/custom/cupid_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:item/custom/inferno_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:item/custom/enderium_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "minecraft:item/custom/volcano_pickaxe"
+    },
+    {"predicate":{"custom_model_data":10000},"model":"elitecreatures:carnivoret_weapon_set/pickaxe"},
+{"predicate":{"custom_model_data":10001},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/pickaxe"},
+{"predicate":{"custom_model_data":10002},"model":"purpleworldset:purpleworldset/purpleworld_pickaxe"},
+{"predicate":{"custom_model_data":10003},"model":"item/netherite_pickaxe"}
+  ]
+}

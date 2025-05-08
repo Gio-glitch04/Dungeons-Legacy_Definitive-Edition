@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_axe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/custom/cursed_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/custom/dark_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/custom/blessed_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:item/custom/eternal_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/custom/steel_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:item/custom/cupid_axe"
+    },
+    {"predicate":{"custom_model_data":10000},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/axe"},
+{"predicate":{"custom_model_data":10001},"model":"elitecreatures:carnivoret_weapon_set/axe"},
+{"predicate":{"custom_model_data":10002},"model":"elitecreatures:carnivoret_weapon_set/hammer"},
+{"predicate":{"custom_model_data":10003},"model":"purpleworldset:purpleworldset/purpleworld_axe"},
+{"predicate":{"custom_model_data":10004},"model":"purpleworldset:purpleworldset/purpleworld_battleaxe"},
+{"predicate":{"custom_model_data":10005},"model":"item/netherite_axe"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_hoe"
+  },"overrides":[
+    {"predicate":{"custom_model_data":10000},"model":"elitecreatures:carnivoret_weapon_set/hoe"},
+{"predicate":{"custom_model_data":10001},"model":"elitecreatures:carnivoret_weapon_set/scythe"},
+{"predicate":{"custom_model_data":10002},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/hoe"},
+{"predicate":{"custom_model_data":10003},"model":"purpleworldset:purpleworldset/purpleworld_hoe"},
+{"predicate":{"custom_model_data":10004},"model":"item/netherite_hoe"}
+  ]
+}

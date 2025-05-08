@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/blaze_rod"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":87600}, "model": "minecraft:item/nocsy/kingdom_cats/nocsy_cat_signalstick"},
+		{"predicate": {"custom_model_data":87601}, "model": "minecraft:item/nocsy/kingdom_cats/nocsy_cat_icon1"},
+		{"predicate": {"custom_model_data":87602}, "model": "minecraft:item/nocsy/kingdom_cats/nocsy_cat_icon2"},
+		{"predicate": {"custom_model_data":87603}, "model": "minecraft:item/nocsy/kingdom_cats/nocsy_cat_icon3"},
+		{"predicate": {"custom_model_data":87604}, "model": "minecraft:item/nocsy/kingdom_cats/nocsy_cat_icon4"},
+		{"predicate": {"custom_model_data":87605}, "model": "minecraft:item/nocsy/kingdom_cats/nocsy_cat_icon5"},
+		{"predicate": {"custom_model_data":87606}, "model": "minecraft:item/nocsy/kingdom_cats/nocsy_cat_icon6"},
+		{"predicate": {"custom_model_data":87607}, "model": "minecraft:item/nocsy/kingdom_cats/nocsy_cat_icon7"},
+		{"predicate": {"custom_model_data":96401}, "model": "minecraft:item/custom/2d/baby_dragon_egg_fire"},
+		{"predicate": {"custom_model_data":96402}, "model": "minecraft:item/custom/2d/baby_dragon_egg_dark"},		
+		{"predicate": {"custom_model_data":96403}, "model": "minecraft:item/custom/2d/baby_dragon_egg_water"},	
+		{"predicate": {"custom_model_data":96404}, "model": "minecraft:item/custom/2d/baby_dragon_egg_cloud"},
+		{"predicate": {"custom_model_data":96405}, "model": "minecraft:item/custom/2d/baby_dragon_egg_volcanic"},
+		{"predicate": {"custom_model_data":96406}, "model": "minecraft:item/custom/2d/baby_dragon_egg_poison"},
+		{"predicate": {"custom_model_data":96407}, "model": "minecraft:item/custom/2d/baby_dragon_egg_forest"},
+		{"predicate": {"custom_model_data":96408}, "model": "minecraft:item/custom/2d/baby_dragon_egg_night"},
+		{"predicate": {"custom_model_data":96501}, "model": "minecraft:item/custom/2d/dragon_egg_fire"},
+		{"predicate": {"custom_model_data":96502}, "model": "minecraft:item/custom/2d/dragon_egg_dark"},
+		{"predicate": {"custom_model_data":96503}, "model": "minecraft:item/custom/2d/dragon_egg_water"},
+		{"predicate": {"custom_model_data":96504}, "model": "minecraft:item/custom/2d/dragon_egg_cloud"},
+		{"predicate": {"custom_model_data":96505}, "model": "minecraft:item/custom/2d/dragon_egg_volcanic"},	
+		{"predicate": {"custom_model_data":96506}, "model": "minecraft:item/custom/2d/dragon_egg_poison"},			
+		{"predicate": {"custom_model_data":96507}, "model": "minecraft:item/custom/2d/dragon_egg_forest"},
+		{"predicate": {"custom_model_data":96508}, "model": "minecraft:item/custom/2d/dragon_egg_night"}
+	]
+}

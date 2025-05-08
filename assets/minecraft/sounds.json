@@ -1,0 +1,25 @@
+{
+	"ui.button.click": {
+      "replace": true,
+		  "sounds": [ "ui/select_console" ] },
+	"hv_tenebris.swoosh": {
+      "sounds": [
+        "hv_tenebris/swoosh"
+      ]
+    },
+    "hv_tenebris.ray": {
+      "sounds": [
+        "hv_tenebris/ray"
+      ]
+    },
+    "hv_tenebris.grab": {
+      "sounds": [
+        "hv_tenebris/grab"
+      ]
+    },
+    "hv_tenebris.projectile": {
+      "sounds": [
+        "hv_tenebris/projectile"
+      ]
+    }
+}

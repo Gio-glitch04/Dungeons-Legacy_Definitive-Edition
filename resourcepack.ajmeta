@@ -1,0 +1,16 @@
+{
+    "version": "0.4.8",
+    "projects": {
+        "2d6a3e08-ff6c-36ee-4a9a-3e97d7b7a31a": {
+            "project_name": "deco",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\deco\\bone.json",
+                "assets\\animated_java\\models\\item\\deco\\bone2.json",
+                "assets\\animated_java\\models\\item\\deco\\bone3.json",
+                "assets\\animated_java\\models\\item\\deco\\bone4.json",
+                "assets\\animated_java\\textures\\item\\deco\\cyan_candle_lit.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        }
+    }
+}

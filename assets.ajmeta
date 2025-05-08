@@ -1,0 +1,95 @@
+{
+	"arcane_core": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/blueprint/arcane_core/asciillager.png",
+			"assets/animated_java/models/blueprint/arcane_core/outer_outline.json",
+			"assets/animated_java/models/blueprint/arcane_core/cube_outline1.json",
+			"assets/animated_java/models/blueprint/arcane_core/bone1.json",
+			"assets/animated_java/models/blueprint/arcane_core/bone2.json",
+			"assets/animated_java/models/blueprint/arcane_core/bone3.json"
+		]
+	},
+	"banhammer": {
+		"files": ["assets/animated_java/models/empty.json", "assets/animated_java/models/blueprint/banhammer/bone2.json"]
+	},
+	"big_globe": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/item/transparent.png",
+			"assets/animated_java/models/item/big_globe/default/structure.json"
+		]
+	},
+	"crate": {
+		"files": ["assets/animated_java/models/empty.json", "assets/animated_java/textures/item/transparent.png"]
+	},
+	"cursed_axe": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/models/blueprint/cursed_axe/bone3.json",
+			"assets/animated_java/models/blueprint/cursed_axe/bone4.json"
+		]
+	},
+	"cutlass": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/models/blueprint/cutlass/bone2.json",
+			"assets/animated_java/models/blueprint/cutlass/bone3.json"
+		]
+	},
+	"cyan_shockwave": {
+		"files": ["assets/animated_java/models/empty.json", "assets/animated_java/models/blueprint/cyan_shockwave/bone3.json"]
+	},
+	"deco": {
+		"files": ["assets/animated_java/models/empty.json", "assets/animated_java/textures/item/transparent.png"]
+	},
+	"double_axe_double": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/models/blueprint/double_axe_double/bone3.json",
+			"assets/animated_java/models/blueprint/double_axe_double/bone4.json"
+		]
+	},
+	"globe": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/item/transparent.png",
+			"assets/animated_java/models/item/globe/default/bone.json"
+		]
+	},
+	"great_hammer": {
+		"files": ["assets/animated_java/models/empty.json", "assets/animated_java/models/blueprint/great_hammer/bone2.json"]
+	},
+	"magenta_shockwave": {
+		"files": ["assets/animated_java/models/empty.json", "assets/animated_java/models/blueprint/magenta_shockwave/bone3.json"]
+	},
+	"nameless_blade": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/models/blueprint/nameless_blade/bone2.json",
+			"assets/animated_java/models/blueprint/nameless_blade/bone3.json"
+		]
+	},
+	"obsidian_claymore": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/models/blueprint/obsidian_claymore/bone2.json",
+			"assets/animated_java/models/blueprint/obsidian_claymore/bone3.json"
+		]
+	},
+	"orange_shockwave": {
+		"files": ["assets/animated_java/models/empty.json", "assets/animated_java/models/blueprint/orange_shockwave/bone3.json"]
+	},
+	"redstone_core": {
+		"files": ["assets/animated_java/models/empty.json"]
+	},
+	"stormlander": {
+		"files": ["assets/animated_java/models/empty.json", "assets/animated_java/models/blueprint/stormlander/bone2.json"]
+	},
+	"swinging_lamp": {
+		"files": ["assets/animated_java/models/empty.json"]
+	},
+	"the_starless_night": {
+		"files": ["assets/animated_java/models/empty.json", "assets/animated_java/models/blueprint/the_starless_night/bone2.json"]
+	}
+}

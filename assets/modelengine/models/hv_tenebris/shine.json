@@ -1,0 +1,1 @@
+{"textures":{"4":"modelengine:entity/hv_tenebris"},"elements":[{"from":[7.875,5.9000015,8.0],"to":[8.125,10.099998,8.0],"faces":{"south":{"uv":[5.8333335,15.083334,5.916667,15.416667],"tintindex":0,"rotation":0,"texture":"#4"},"north":{"uv":[5.75,15.083334,5.8333335,15.416667],"tintindex":0,"rotation":0,"texture":"#4"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

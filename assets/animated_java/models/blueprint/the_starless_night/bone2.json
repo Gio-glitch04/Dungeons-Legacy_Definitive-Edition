@@ -1,0 +1,36 @@
+{
+	"textures": {
+		"0": "minecraft:custom/magenta_slash_claymore",
+		"1": "minecraft:custom/purple_shockwave",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [8, -4, -4],
+			"to": [8, 20, 20],
+			"faces": {
+				"east": {
+					"uv": [16, 0, 0, 16],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [0, 79, 0, 0],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [0, 0, 0, 79],
+					"texture": "#1"
+				}
+			}
+		}
+	]
+}

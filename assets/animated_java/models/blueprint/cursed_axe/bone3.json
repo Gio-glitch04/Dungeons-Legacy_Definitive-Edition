@@ -1,0 +1,49 @@
+{
+	"textures": {
+		"0": "minecraft:custom/magenta_slash",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [-4, 9, -4],
+			"to": [20, 9, 20],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [16, 16, 0, 0],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [16, 16, 0, 0],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [16, 16, 0, 0],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [16, 16, 0, 0],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [16, 16, 0, 0],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [0, 16, 16, 0],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

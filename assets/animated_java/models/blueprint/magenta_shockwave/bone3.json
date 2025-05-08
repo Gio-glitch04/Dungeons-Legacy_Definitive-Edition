@@ -1,0 +1,32 @@
+{
+	"textures": {
+		"0": "minecraft:custom/purple_shockwave",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [-4, 8, -4],
+			"to": [20, 8, 20],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"up": {
+					"uv": [16, 16, 0, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [16, 16, 0, 0],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}
