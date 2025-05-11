@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/blightedbark"},"elements":[{"from":[9.6,-0.5,0.0],"to":[9.6,16.5,10.0],"faces":{"east":{"uv":[4.75,5.625,5.375,6.6875],"tintindex":0,"rotation":0,"texture":"#0"},"west":{"uv":[5.375,5.625,6.0,6.6875],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

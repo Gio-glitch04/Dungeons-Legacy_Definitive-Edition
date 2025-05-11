@@ -1,0 +1,1 @@
+{"textures":{"1":"modelengine:entity/mistthesoulrot"},"elements":[{"from":[6.9,8.300003,-13.0],"to":[27.9,8.300003,28.0],"faces":{"up":{"uv":[2.625,11.5,0.0,6.375],"tintindex":0,"rotation":0,"texture":"#1"},"down":{"uv":[5.25,6.375,2.625,11.5],"tintindex":0,"rotation":0,"texture":"#1"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

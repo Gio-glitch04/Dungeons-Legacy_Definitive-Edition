@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/malevolentmoss"},"elements":[{"from":[8.0,-1.5,1.5],"to":[8.0,17.5,14.5],"faces":{"east":{"uv":[5.75,7.125,7.375,9.5],"tintindex":0,"rotation":0,"texture":"#0"},"west":{"uv":[7.25,4.25,8.875,6.625],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

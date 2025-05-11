@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/mangroveglare"},"elements":[{"from":[7.0,8.0,3.25],"to":[17.0,8.0,13.25],"faces":{"up":{"uv":[1.25,4.75,2.5,3.5],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[3.75,1.375,5.0,2.625],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

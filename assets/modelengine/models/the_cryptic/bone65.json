@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/thecrypti"},"elements":[{"from":[8.0,3.5,-3.5],"to":[8.0,12.5,19.5],"faces":{"east":{"uv":[8.875,15.4375,10.3125,16.0],"tintindex":0,"rotation":0,"texture":"#0"},"west":{"uv":[7.3125,15.4375,8.75,16.0],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/hollowhowl"},"elements":[{"from":[-1.0,8.0,7.5],"to":[17.0,8.0,30.5],"faces":{"up":{"uv":[6.5,6.5,4.25,3.625],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[8.75,3.625,6.5,6.5],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

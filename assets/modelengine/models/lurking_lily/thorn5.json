@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/lurkinglily"},"elements":[{"from":[7.5,8.0,6.5],"to":[7.5,19.0,9.5],"faces":{"east":{"uv":[7.0,8.25,7.375,9.625],"tintindex":0,"rotation":0,"texture":"#0"},"west":{"uv":[5.875,8.625,6.25,10.0],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

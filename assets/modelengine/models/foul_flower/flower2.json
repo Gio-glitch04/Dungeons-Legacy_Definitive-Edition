@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/foulflower"},"elements":[{"from":[5.0,8.0,8.0],"to":[11.0,14.0,8.0],"faces":{"south":{"uv":[8.25,1.5,9.0,2.25],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[0.0,8.25,0.75,9.0],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

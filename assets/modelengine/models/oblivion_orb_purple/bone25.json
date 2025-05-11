@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/oblivinonorb"},"elements":[{"from":[18.0,-9.72459,14.92023],"to":[18.0,-2.92459,18.62023],"faces":{"east":{"uv":[9.625,7.75,9.125,8.625],"tintindex":0,"rotation":0,"texture":"#0"},"west":{"uv":[6.375,7.625,5.875,8.5],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

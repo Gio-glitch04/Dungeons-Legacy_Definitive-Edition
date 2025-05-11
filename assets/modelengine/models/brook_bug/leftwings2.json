@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/brookbug"},"elements":[{"from":[-14.5,8.0,3.5],"to":[8.5,8.0,12.5],"faces":{"up":{"uv":[9.5,2.25,3.75,0.0],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[9.5,2.25,3.75,4.5],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

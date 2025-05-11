@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/ashenazalea"},"elements":[{"from":[5.0,5.0,9.0],"to":[11.0,11.0,9.0],"faces":{"south":{"uv":[0.84375,9.0625,1.03125,9.25],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[0.625,9.28125,0.8125,9.46875],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

@@ -1,0 +1,1 @@
+{"textures":{"1":"modelengine:entity/thenyxs"},"elements":[{"from":[3.500001,7.0,8.0],"to":[12.5,9.0,8.0],"faces":{"south":{"uv":[8.0,3.8125,8.5625,3.9375],"tintindex":0,"rotation":0,"texture":"#1"},"north":{"uv":[7.9375,0.8125,8.5,0.9375],"tintindex":0,"rotation":0,"texture":"#1"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

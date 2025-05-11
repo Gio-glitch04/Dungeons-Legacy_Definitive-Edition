@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/wretchedweaver"},"elements":[{"from":[4.0,-5.0,8.0],"to":[19.0,20.0,8.0],"faces":{"south":{"uv":[3.875,2.25,2.9375,3.8125],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[2.9375,2.5,2.0,4.0625],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/thehemlock"},"elements":[{"from":[4.08184,-8.9291,8.0],"to":[11.9181595,9.638302,8.0],"faces":{"south":{"uv":[1.125,8.125,0.5625,9.5],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[0.5625,8.125,0.0,9.5],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}
