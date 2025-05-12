@@ -3,6 +3,216 @@
   "textures": {
     "layer0": "minecraft:item/netherite_hoe"
   },"overrides":[
+    {
+      "predicate": {
+        "custom_model_data": 9000
+      },
+      "model": "minecraft:item/custom/3d_shading/amethyst/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9001
+      },
+      "model": "minecraft:item/custom/3d_shading/aurora/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9002
+      },
+      "model": "minecraft:item/custom/3d_shading/boreal/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9003
+      },
+      "model": "minecraft:item/custom/3d_shading/dark_amethyst/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9004
+      },
+      "model": "minecraft:item/custom/3d_shading/darkness/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9005
+      },
+      "model": "minecraft:item/custom/3d_shading/diamond/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9006
+      },
+      "model": "minecraft:item/custom/3d_shading/drone/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9007
+      },
+      "model": "minecraft:item/custom/3d_shading/emerald/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9008
+      },
+      "model": "minecraft:item/custom/3d_shading/ender/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9009
+      },
+      "model": "minecraft:item/custom/3d_shading/flaming/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9010
+      },
+      "model": "minecraft:item/custom/3d_shading/glacier/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9011
+      },
+      "model": "minecraft:item/custom/3d_shading/gold/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9012
+      },
+      "model": "minecraft:item/custom/3d_shading/gold_2/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9013
+      },
+      "model": "minecraft:item/custom/3d_shading/inferno/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9014
+      },
+      "model": "minecraft:item/custom/3d_shading/iron/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9015
+      },
+      "model": "minecraft:item/custom/3d_shading/light/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9016
+      },
+      "model": "minecraft:item/custom/3d_shading/midnight/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9017
+      },
+      "model": "minecraft:item/custom/3d_shading/netherite/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9018
+      },
+      "model": "minecraft:item/custom/3d_shading/netherite_gold/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9019
+      },
+      "model": "minecraft:item/custom/3d_shading/nitro/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9020
+      },
+      "model": "minecraft:item/custom/3d_shading/orange_sapphire/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9021
+      },
+      "model": "minecraft:item/custom/3d_shading/paladin/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9022
+      },
+      "model": "minecraft:item/custom/3d_shading/phoenix/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9023
+      },
+      "model": "minecraft:item/custom/3d_shading/prismarine/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9024
+      },
+      "model": "minecraft:item/custom/3d_shading/quartz/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9025
+      },
+      "model": "minecraft:item/custom/3d_shading/raven/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9026
+      },
+      "model": "minecraft:item/custom/3d_shading/raven_2/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9027
+      },
+      "model": "minecraft:item/custom/3d_shading/ruby/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9028
+      },
+      "model": "minecraft:item/custom/3d_shading/sapphire/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9029
+      },
+      "model": "minecraft:item/custom/3d_shading/sculk/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9030
+      },
+      "model": "minecraft:item/custom/3d_shading/silver/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9031
+      },
+      "model": "minecraft:item/custom/3d_shading/soul/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9032
+      },
+      "model": "minecraft:item/custom/3d_shading/sunset/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9033
+      },
+      "model": "minecraft:item/custom/3d_shading/toxic/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9034
+      },
+      "model": "minecraft:item/custom/3d_shading/vapor/hoe"
+    },
     {"predicate":{"custom_model_data":10000},"model":"elitecreatures:carnivoret_weapon_set/hoe"},
 {"predicate":{"custom_model_data":10001},"model":"elitecreatures:carnivoret_weapon_set/scythe"},
 {"predicate":{"custom_model_data":10002},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/hoe"},
