@@ -128,19 +128,19 @@
       "predicate": {
         "custom_model_data": 9000
       },
-      "model": "minecraft:item/custom/diapason_sword_midnight"
+      "model": "minecraft:item/custom/3d_shading/amethyst/diapason_sword"
     },
     {
       "predicate": {
-        "custom_model_data": 9001
+        "custom_model_data": 9008
       },
-      "model": "minecraft:item/custom/diapason_sword_glacier"
+      "model": "minecraft:item/custom/3d_shading/glacier/diapason_sword"
     },
     {
       "predicate": {
-        "custom_model_data": 9002
+        "custom_model_data": 9014
       },
-      "model": "minecraft:item/custom/diapason_sword_amethyst"
+      "model": "minecraft:item/custom/3d_shading/midnight/diapason_sword"
     },
     {"predicate":{"custom_model_data":10000},"model":"elitecreatures:carnivoret_weapon_set/spear"},
 {"predicate":{"custom_model_data":10001},"model":"elitecreatures:carnivoret_weapon_set/staff"},
