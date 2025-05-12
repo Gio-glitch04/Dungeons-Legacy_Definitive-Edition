@@ -1,0 +1,134 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "nocsy_ganon_minion_sword",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "diamante"
+	},
+	"elements": [
+		{
+			"from": [6.69497, -7.76497, 6.5],
+			"to": [9.69497, -4.76497, 9.5],
+			"rotation": {"angle": -45, "axis": "z", "origin": [9.49497, -5.46497, 8]},
+			"faces": {
+				"north": {"uv": [9, 1.5, 10.5, 3], "texture": "#1"},
+				"east": {"uv": [4, 9, 5.5, 10.5], "texture": "#1"},
+				"south": {"uv": [10.5, 1.5, 9, 3], "texture": "#1"},
+				"west": {"uv": [9.5, 4.5, 11, 6], "texture": "#1"},
+				"up": {"uv": [10, 11, 8.5, 9.5], "texture": "#1"},
+				"down": {"uv": [11.5, 3, 10, 4.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.99497, -3.96497, 7],
+			"to": [8.99497, 7.03503, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4.70503, 4.98503, 9.62]},
+			"faces": {
+				"north": {"uv": [6, 3, 7, 7], "texture": "#1"},
+				"east": {"uv": [7, 3, 8, 7], "texture": "#1"},
+				"south": {"uv": [7, 3, 6, 7], "texture": "#1"},
+				"west": {"uv": [7, 3, 8, 7], "texture": "#1"},
+				"up": {"uv": [14.5, 2, 13.5, 1], "texture": "#1"},
+				"down": {"uv": [3, 13.5, 2, 14.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4.89497, 7.93503, 6.4],
+			"to": [11.09497, 10.13503, 9.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4.70503, 4.98503, 9.62]},
+			"faces": {
+				"north": {"uv": [7, 7, 10, 8], "texture": "#1"},
+				"east": {"uv": [12, 1.5, 13.5, 2.5], "texture": "#1"},
+				"south": {"uv": [10, 7, 7, 8], "texture": "#1"},
+				"west": {"uv": [12, 7, 13.5, 8], "texture": "#1"},
+				"up": {"uv": [9, 1.5, 6, 0], "texture": "#1"},
+				"down": {"uv": [9, 1.5, 6, 3], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.5, 6.93503, 6],
+			"to": [9.5, 9.93503, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-5.2, 4.98503, 10.12]},
+			"faces": {
+				"north": {"uv": [10, 6, 11.5, 7.5], "texture": "#1"},
+				"east": {"uv": [4, 7.5, 6, 9], "texture": "#1"},
+				"south": {"uv": [11.5, 6, 10, 7.5], "texture": "#1"},
+				"west": {"uv": [8, 3, 10, 4.5], "texture": "#1"},
+				"up": {"uv": [9.5, 6.5, 8, 4.5], "texture": "#1"},
+				"down": {"uv": [8.5, 8, 7, 10], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.5, 15.93503, 6],
+			"to": [9.5, 18.93503, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-5.2, 13.98503, 10.12]},
+			"faces": {
+				"north": {"uv": [10, 6, 11.5, 7.5], "texture": "#1"},
+				"east": {"uv": [4, 7.5, 6, 9], "texture": "#1"},
+				"south": {"uv": [11.5, 6, 10, 7.5], "texture": "#1"},
+				"west": {"uv": [8, 3, 10, 4.5], "texture": "#1"},
+				"up": {"uv": [9.5, 6.5, 8, 4.5], "texture": "#1"},
+				"down": {"uv": [8.5, 8, 7, 10], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0.5, 9.43503, 4.5],
+			"to": [15.5, 16.43503, 11.5],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 13.43503, 8]},
+			"faces": {
+				"north": {"uv": [0.5, 1.5, 3.5, 9], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [0.5, 1.5, 3.5, 4], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [0.5, 1.5, 3.5, 9], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [0.5, 1.5, 3.5, 4], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0.5, 1.5, 3, 9], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0.5, 1.5, 3, 9], "rotation": 90, "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [106.51, -83.9, 109.77],
+			"translation": [-0.75, 5.25, 0.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [106.51, -83.9, 109.77],
+			"translation": [-0.75, 5.25, 0.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [-12.5, -67.5, 0],
+			"translation": [0, 4.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-12.5, -67.5, 0],
+			"translation": [0, 4.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"rotation": [-54.2, 20.45, -8],
+			"translation": [0, 3.75, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"rotation": [-35, 0, 45],
+			"translation": [-0.25, 0.25, -0.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"rotation": [0, 0, -45],
+			"translation": [-1.25, -1.5, -0.5],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	},
+	"groups": [
+		{
+			"name": "sword",
+			"origin": [9.17, 24.70069, 0.71535],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5]
+		}
+	],
+	"mcmodels": "fea916290808e2827df32545ac5068e3"
+}

@@ -132,13 +132,13 @@
     },
     {
       "predicate": {
-        "custom_model_data": 9008
+        "custom_model_data": 9010
       },
       "model": "minecraft:item/custom/3d_shading/glacier/diapason_sword"
     },
     {
       "predicate": {
-        "custom_model_data": 9014
+        "custom_model_data": 9016
       },
       "model": "minecraft:item/custom/3d_shading/midnight/diapason_sword"
     },
