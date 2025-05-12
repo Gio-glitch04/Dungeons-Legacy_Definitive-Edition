@@ -124,6 +124,18 @@
       },
       "model": "minecraft:item/custom/ruby_sword"
     },
+    {
+      "predicate": {
+        "custom_model_data": 9000
+      },
+      "model": "minecraft:item/custom/diapason_sword_midnight"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9001
+      },
+      "model": "minecraft:item/custom/diapason_sword_glacier"
+    },
     {"predicate":{"custom_model_data":10000},"model":"elitecreatures:carnivoret_weapon_set/spear"},
 {"predicate":{"custom_model_data":10001},"model":"elitecreatures:carnivoret_weapon_set/staff"},
 {"predicate":{"custom_model_data":10002},"model":"elitecreatures:carnivoret_weapon_set/sword"},
