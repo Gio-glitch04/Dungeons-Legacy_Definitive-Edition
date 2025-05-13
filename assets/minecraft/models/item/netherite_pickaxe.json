@@ -52,6 +52,216 @@
       },
       "model": "minecraft:item/custom/volcano_pickaxe"
     },
+    {
+      "predicate": {
+        "custom_model_data": 9000
+      },
+      "model": "minecraft:item/custom/3d_shading/amethyst/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9001
+      },
+      "model": "minecraft:item/custom/3d_shading/aurora/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9002
+      },
+      "model": "minecraft:item/custom/3d_shading/boreal/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9003
+      },
+      "model": "minecraft:item/custom/3d_shading/dark_amethyst/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9004
+      },
+      "model": "minecraft:item/custom/3d_shading/darkness/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9005
+      },
+      "model": "minecraft:item/custom/3d_shading/diamond/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9006
+      },
+      "model": "minecraft:item/custom/3d_shading/drone/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9007
+      },
+      "model": "minecraft:item/custom/3d_shading/emerald/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9008
+      },
+      "model": "minecraft:item/custom/3d_shading/ender/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9009
+      },
+      "model": "minecraft:item/custom/3d_shading/flaming/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9010
+      },
+      "model": "minecraft:item/custom/3d_shading/glacier/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9011
+      },
+      "model": "minecraft:item/custom/3d_shading/gold/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9012
+      },
+      "model": "minecraft:item/custom/3d_shading/gold_2/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9013
+      },
+      "model": "minecraft:item/custom/3d_shading/inferno/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9014
+      },
+      "model": "minecraft:item/custom/3d_shading/iron/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9015
+      },
+      "model": "minecraft:item/custom/3d_shading/light/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9016
+      },
+      "model": "minecraft:item/custom/3d_shading/midnight/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9017
+      },
+      "model": "minecraft:item/custom/3d_shading/netherite/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9018
+      },
+      "model": "minecraft:item/custom/3d_shading/netherite_gold/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9019
+      },
+      "model": "minecraft:item/custom/3d_shading/nitro/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9020
+      },
+      "model": "minecraft:item/custom/3d_shading/orange_sapphire/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9021
+      },
+      "model": "minecraft:item/custom/3d_shading/paladin/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9022
+      },
+      "model": "minecraft:item/custom/3d_shading/phoenix/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9023
+      },
+      "model": "minecraft:item/custom/3d_shading/prismarine/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9024
+      },
+      "model": "minecraft:item/custom/3d_shading/quartz/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9025
+      },
+      "model": "minecraft:item/custom/3d_shading/raven/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9026
+      },
+      "model": "minecraft:item/custom/3d_shading/raven_2/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9027
+      },
+      "model": "minecraft:item/custom/3d_shading/ruby/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9028
+      },
+      "model": "minecraft:item/custom/3d_shading/sapphire/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9029
+      },
+      "model": "minecraft:item/custom/3d_shading/sculk/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9030
+      },
+      "model": "minecraft:item/custom/3d_shading/silver/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9031
+      },
+      "model": "minecraft:item/custom/3d_shading/soul/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9032
+      },
+      "model": "minecraft:item/custom/3d_shading/sunset/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9033
+      },
+      "model": "minecraft:item/custom/3d_shading/toxic/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9034
+      },
+      "model": "minecraft:item/custom/3d_shading/vapor/pickaxe"
+    },
     {"predicate":{"custom_model_data":10000},"model":"elitecreatures:carnivoret_weapon_set/pickaxe"},
 {"predicate":{"custom_model_data":10001},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/pickaxe"},
 {"predicate":{"custom_model_data":10002},"model":"purpleworldset:purpleworldset/purpleworld_pickaxe"},
