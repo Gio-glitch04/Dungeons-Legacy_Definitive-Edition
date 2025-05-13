@@ -40,6 +40,216 @@
       },
       "model": "minecraft:item/custom/cupid_axe"
     },
+    {
+      "predicate": {
+        "custom_model_data": 9000
+      },
+      "model": "minecraft:item/custom/3d_shading/amethyst/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9001
+      },
+      "model": "minecraft:item/custom/3d_shading/aurora/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9002
+      },
+      "model": "minecraft:item/custom/3d_shading/boreal/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9003
+      },
+      "model": "minecraft:item/custom/3d_shading/dark_amethyst/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9004
+      },
+      "model": "minecraft:item/custom/3d_shading/darkness/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9005
+      },
+      "model": "minecraft:item/custom/3d_shading/diamond/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9006
+      },
+      "model": "minecraft:item/custom/3d_shading/drone/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9007
+      },
+      "model": "minecraft:item/custom/3d_shading/emerald/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9008
+      },
+      "model": "minecraft:item/custom/3d_shading/ender/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9009
+      },
+      "model": "minecraft:item/custom/3d_shading/flaming/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9010
+      },
+      "model": "minecraft:item/custom/3d_shading/glacier/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9011
+      },
+      "model": "minecraft:item/custom/3d_shading/gold/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9012
+      },
+      "model": "minecraft:item/custom/3d_shading/gold_2/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9013
+      },
+      "model": "minecraft:item/custom/3d_shading/inferno/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9014
+      },
+      "model": "minecraft:item/custom/3d_shading/iron/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9015
+      },
+      "model": "minecraft:item/custom/3d_shading/light/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9016
+      },
+      "model": "minecraft:item/custom/3d_shading/midnight/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9017
+      },
+      "model": "minecraft:item/custom/3d_shading/netherite/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9018
+      },
+      "model": "minecraft:item/custom/3d_shading/netherite_gold/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9019
+      },
+      "model": "minecraft:item/custom/3d_shading/nitro/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9020
+      },
+      "model": "minecraft:item/custom/3d_shading/orange_sapphire/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9021
+      },
+      "model": "minecraft:item/custom/3d_shading/paladin/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9022
+      },
+      "model": "minecraft:item/custom/3d_shading/phoenix/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9023
+      },
+      "model": "minecraft:item/custom/3d_shading/prismarine/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9024
+      },
+      "model": "minecraft:item/custom/3d_shading/quartz/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9025
+      },
+      "model": "minecraft:item/custom/3d_shading/raven/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9026
+      },
+      "model": "minecraft:item/custom/3d_shading/raven_2/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9027
+      },
+      "model": "minecraft:item/custom/3d_shading/ruby/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9028
+      },
+      "model": "minecraft:item/custom/3d_shading/sapphire/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9029
+      },
+      "model": "minecraft:item/custom/3d_shading/sculk/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9030
+      },
+      "model": "minecraft:item/custom/3d_shading/silver/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9031
+      },
+      "model": "minecraft:item/custom/3d_shading/soul/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9032
+      },
+      "model": "minecraft:item/custom/3d_shading/sunset/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9033
+      },
+      "model": "minecraft:item/custom/3d_shading/toxic/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9034
+      },
+      "model": "minecraft:item/custom/3d_shading/vapor/axe"
+    },
     {"predicate":{"custom_model_data":10000},"model":"elitecreatures:valentines_animated_weapon_and_tool_set_v1/axe"},
 {"predicate":{"custom_model_data":10001},"model":"elitecreatures:carnivoret_weapon_set/axe"},
 {"predicate":{"custom_model_data":10002},"model":"elitecreatures:carnivoret_weapon_set/hammer"},

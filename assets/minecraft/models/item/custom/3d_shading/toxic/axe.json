@@ -3,8 +3,8 @@
 	"parent": "nocsy_ganon_minion_sword",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "item/tool_composed_textures/asset_amethist",
-		"particle": "item/tool_composed_textures/asset_amethist"
+		"2": "item/tool_composed_textures/asset_toxic",
+		"particle": "item/tool_composed_textures/asset_toxic"
 	},
 	"elements": [
 		{
